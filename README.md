@@ -2,7 +2,6 @@
 
 - I'm a software engineer based in Brazil who's been focusing on frontend development for the last 3 years;
 - I love to continually learn more how to build user interfaces that are beautiful and performant;
-- I'm currently working at the company [Chico Rei](https://chicorei.com/), where I manage the styles and main components to be used by the team as well as build new pages for their e-commerce website;
 - I work with some backend stuff too, like adding features to REST APIs or writing MySQL queries;
 - Here in my GitHub you can find some side projects in which I have put into practice things I don't necessarily use at work but still like to learn and experiment with, such as Socket.io, Next.js, and React Redux.
 - You can also visit my [portfolio website](https://www.jorgemoreira.dev/) and my [LinkedIn profile](https://www.linkedin.com/in/jorgemoreirajf/).
